@@ -5,16 +5,17 @@
 2. A bash file to automate adding, commiting and pushing
 3. A README.md file based on the simplistic markdown language
 
-Hey!, chill out and have some H~2~O
-*some italics for you*
+Hey!, chill out and have some H~2~O  
+
+*some italics for you*  
 ---
 Lets see some code!!
 
-`#include<iostream>
-using namespace std
-int main(){
-cout<<"This is a mardown file!!"<<endl;
-}`
+`#include<iostream>`  
+`using namespace std`  
+`int main(){`  
+`cout<<"This is a mardown file!!"<<endl;`  
+`}`
 
 ---
 
