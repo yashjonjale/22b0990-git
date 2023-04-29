@@ -5,7 +5,8 @@
 2. A bash file to automate adding, commiting and pushing
 3. A README.md file based on the simplistic markdown language
 
-*Hey!, chill out and have some H~2~O *
+Hey!, chill out and have some H~2~O
+*some italics for you*
 ---
 Lets see some code!!
 
