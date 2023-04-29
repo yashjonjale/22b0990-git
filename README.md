@@ -9,11 +9,11 @@
 ---
 Lets see some code!!
 
-`#include<iostream>`
-`using namespace std`
-`int main(){`
-`cout<<"This is a mardown file!!"<<endl;`
-`}`
+`#include<iostream>
+using namespace std
+int main(){
+cout<<"This is a mardown file!!"<<endl;
+}`
 
 ---
 
